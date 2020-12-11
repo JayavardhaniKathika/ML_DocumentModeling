@@ -12,3 +12,7 @@ K-means clustering is performed on all these document models (BOW, TF-IDF, Doc2V
 The results of different vocabularies, different topic models, and various clustering outputs are analysed and compared.
 
 Sklearn, genism, nltk, seaborn, and matplot libraries are used.
+
+Visualization of topics using PyLDAvis and Word Cloud
+
+![alt text](https://github.com/JayavardhaniKathika/ML_DocumentModeling/blob/main/PyLDAvis.png?raw=true)
