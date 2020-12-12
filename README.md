@@ -15,7 +15,9 @@ Sklearn, genism, nltk, seaborn, and matplot libraries are used.
 
 **Visualization of topics using PyLDAvis and Word Cloud**
 
-![alt text](https://github.com/JayavardhaniKathika/ML_DocumentModeling/blob/main/PyLDAvis.png?raw=true)
+![alt text](https://github.com/JayavardhaniKathika/ML_DocumentModeling/blob/main/PyLDAvis_all.png?raw=true)
+
+![alt text](https://github.com/JayavardhaniKathika/ML_DocumentModeling/blob/main/PyLDAvis_2k.png?raw=true)
 
 ![alt text](https://github.com/JayavardhaniKathika/ML_DocumentModeling/blob/main/WordCloud.png?raw=true)
 
