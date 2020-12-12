@@ -1,4 +1,4 @@
-# ML_DocumentModeling
+# DocumentModeling on 20Newsgroups Dataset
 
 This repository consists of visualizations and results of different document modeling and clustering techniques performed on 20Newsgroups dataset. 
 
